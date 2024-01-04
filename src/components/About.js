@@ -21,18 +21,18 @@ const About = () => {
 
   return (
     <div
-      className="about container mx-auto mt-40 border-2 border-[white] "
+      className="about container mx-auto mt-40 border-0 border-[white] "
       id="about"
     >
       <SectionTitle title={"About"} />
 
-      <div className="about-wrapper mt-40 grid grid-cols-1 lg:grid-cols-2 gap-20 overflow-hidden">
+      <div className="about-wrapper boreder-[none] mt-40 grid grid-cols-1 lg:grid-cols-2 gap-20 overflow-hidden">
         <div
-          className="about-left border-2 border-[white]"
+          className="about-left border-0 border-[white]"
           ref={aboutLeftRef}
         ></div>
         <div
-          className="about-right border-2 border-[white]"
+          className="about-right border-0 border-[white]"
           ref={aboutRightRef}
         >
           <p className="mb-10">

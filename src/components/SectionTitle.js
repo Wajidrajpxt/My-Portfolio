@@ -7,7 +7,7 @@ const SectionTitle = ({ title }) => {
   useSectionTitleReveal(sectionTitleRef);
   return (
     <div className="overflow-hidden">
-      <h2 className="section-title" ref={sectionTitleRef}>
+      <h2 className="section-title " ref={sectionTitleRef}>
         {title}
       </h2>
     </div>

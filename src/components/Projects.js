@@ -21,8 +21,8 @@ const data = [
   {
     id: 2,
     title: "Neuron",
-    img1:"https://static.vecteezy.com/system/resources/previews/016/350/257/original/neuron-logo-or-nerve-cell-logo-with-concept-illustration-template-free-vector.jpg",
     img2:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIlQfUirctIAfiGVOI3du50gfd1-kUssQXsQ&usqp=CAU",
+    img1:"https://static.vecteezy.com/system/resources/previews/016/350/257/original/neuron-logo-or-nerve-cell-logo-with-concept-illustration-template-free-vector.jpg",
     description:
       "neuron is very cool website in which website i use HTML CSSS   neuron is highly customizable, responsive, and scalable.",
     tools: [
@@ -41,7 +41,7 @@ const data = [
     id: 3,
     title: "Neorech Website",
     img1: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRACeRCLwyMvrt2LoC5rtdOoFbuRPGFcILydg&usqp=CAU",
-    img2: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIAO0RwVhBcpQH28Plg9e6NqxugFKF4mYm1g&usqp=CAU",
+    img2: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCVMrOXbU_hSsDah2TRAn36Ga7R2Y4UJW7SA&usqp=CAU",
     description:
     "this is an enfulancive website this project is full of animated",
     tools: [
@@ -57,8 +57,8 @@ const data = [
   {
     id: 4,
     title: "Techno",
-    img1: " ",
-    img2:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRISwpsTShN4t4jEoxEora8LywBZHPqt1WxBw&usqp=CAU",
+    img1: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKl1Z0GV-4gR_3GSWexwgNqblF3ru5Oh7A2A&usqp=CAU",
+    img2:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgGiCqzq2-1528R1ekZyYSD_aJe-Ig90LbHg&usqp=CAU",
     description:
        "this is techno website this like a shoping mart, here an user can search different kinds of recipe and find the necessary ingredients for the specific recipe item. Also a recipe item can be saved into the local storage of the browser. ",
     tools: ["React.js", " React Router", "Tailwind CSS"],
